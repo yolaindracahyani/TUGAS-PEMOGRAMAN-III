@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tentang </title>
+    
+</head>
+<body>
+
+<section>
+    <a href="http://127.0.0.1:3002/index-html"> Beranda <span style="color:yellow;">| </span> </a>
+    <a href="http://127.0.0.1:3002/tentang-html"> Tentang Saya <span style="color:greenyellow;">| </span> </a>
+    <a href="http://127.0.0.1:3002/kontak-html"> Hubungi Saya  <span style="color:greenyellow;">| </span> </a>
+    <a href="cv yola indra cahyani.pdf"> CV  <span style="color:greenyellow;">| </span> </a>
+    
+  
+   
+    <header> 
+        <hr>
+        <h3> Tentang Saya</h3>
+
+        <nav>
+           <article>
+            Hi, Bertemu Lagi Dengan Saya, Saya Mau Bercerita Tentang Siapa Diri ini, Tetapi Saya Bingung Mulai Dari Mana, Yang pasti saya insan pembelajar saat ini sedang belajar HTML demi masa depan yang layak,tentu ini belum cukup, masih sangat jauh jalan yang harus ditempuh untuk menguasain ini semua.Tetap semangat diri saya,Masih penasaran tentang diri saya,lihat video lengkap : 
+           </article>
+
+        </nav>
+      
+    </header>
+     
+
+    <main> 
+        <br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3ASDEj1iDIs?si=q_Qcx3N-jZq_3xnf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   
+    </main>
+
+    <hr>
+    <footer> 
+        <center>
+        <p>Copyright © 2024 Yola indra Cahyani.</p>
+
+    </footer>
+ 
+
+</section>
+
+
+</body>
+</html>

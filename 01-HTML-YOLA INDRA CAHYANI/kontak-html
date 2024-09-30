@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kontak yola</title>
+
+</head>
+<body>
+
+<section>
+    <a href="http://127.0.0.1:3002/index-html"> Beranda <span style="color:yellow;">| </span> </a>
+    <a href="http://127.0.0.1:3002/tentang-html"> Tentang Saya <span style="color:greenyellow;">| </span> </a>
+    <a href="http://127.0.0.1:3002/kontak-html"> Hubungi Saya  <span style="color:greenyellow;">| </span> </a>
+    <a href="cv yola indra cahyani.pdf"> CV  <span style="color:greenyellow;">| </span> </a>
+   
+    <header> 
+        <hr>
+        <fieldset>
+            <legend>Kontak saya </legend>
+
+            <nav>
+                Email <br>
+                <input type="email" id="emailInput"> 
+            </nav>
+
+            <main> 
+       
+                Pesan <br>
+                <textarea name="" id="messageInput"></textarea> <br>
+                <button id="submitButton"> Kirim </button>
+              </main>
+
+
+        </fieldset>
+       
+      
+    </header>
+   
+
+    <hr>
+    <footer> 
+        <center>
+        <p>Copyright © 2024 Yola Indra Cahyani.</p>
+
+    </footer>
+ 
+
+</section>
+
+
+</body>
+</html>

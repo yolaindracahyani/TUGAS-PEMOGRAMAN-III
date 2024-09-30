@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beranda yola </title>
+    
+    <style>
+        
+        img {
+            width: 100px;
+            height: 100px;
+            object-fit:cover;
+            border-radius: 50%;
+        }
+    </style>
+
+
+</head>
+<body>
+
+<section>
+    <a href="http://127.0.0.1:3002/index-html"> Beranda <span style="color:yellow;">| </span> </a>
+    <a href="http://127.0.0.1:3002/tentang-html"> Tentang Saya <span style="color:greenyellow;">| </span> </a>
+    <a href="http://127.0.0.1:3002/kontak-html"> Hubungi Saya  <span style="color:greenyellow;">| </span> </a>
+    <a href="cv yola indra cahyani.pdf"> CV  <span style="color:greenyellow;">| </span> </a>
+    <center>
+    <header> 
+        <hr>
+                
+        <img src="foto yola.jpg" alt="foto profile yola"  >
+        
+        <h4>Yola Indra Cahyani </h4>
+    </nav>
+       (Mahasiswa <span style="color:red;">| </span>  PTIK 5 D) 
+    </nav>
+
+    </header>
+      <hr>
+
+    <main> 
+       
+       <h5>Sekilas Tentang Saya</h5>
+
+       <p>Hi, Saya Seorang Mahasiswa Pendidikan Teknik Informatika 5D , Saya Sedang Belajar web Pemograman HTML,CSS Dan PHP di UIN Bukittinggi</p>
+
+    <section>
+        <table border="2
+        " width="60%">
+            <thead>
+                <tr>
+                    <th>Halrd Skil</th>
+                    <th> Pengalaman </th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td> 
+                        <ul>
+                             <li>web desain </li>
+                             <li>E learning </li>
+                             <li>image editing </li>
+                             <li>programer </li>
+                             <li>administrasi server </li>
+
+                        </ul>
+                    </td>
+                    <td>
+                        <ol> 
+
+                            <li>Admin olshope</li>
+                            <li> Pubdekdok TRL 2023 </li>
+                            <li> Pubdekdok Temu Ramah IMAPAR</li>
+                            <li> Devisi acara LDK orbid 2023</li>
+                            <li> Devisi Acara Carity PTIK</li>
+                            
+                           
+                        </ol>
+                    </td>
+                   
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    </main>
+
+    <hr>
+    <footer> 
+        <p>Copyright © 2024 Yola Indra Cahyani.</p>
+
+    </footer>
+ 
+
+</section>
+
+
+</body>
+</html>
